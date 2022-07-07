@@ -3,6 +3,8 @@
 <img src="assets/logo_neoretro.png" width="55%" title="neoretrō logo" />
 neoretrō is a theme for Pegasus-frontend.
 
+▶️ [Youtube Review](https://www.youtube.com/watch?v=YbPcsC95Qc0&ab_channel=RetroGamingReplay)
+
 ## Work in progress
 - clean the code...
 - add a "all games" collection
